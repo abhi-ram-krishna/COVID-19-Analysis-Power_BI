@@ -59,7 +59,7 @@ Cases of novel coronavirus (nCoV) were first detected in China in December 2019,
 - After reviewing additional references, it was found that population size or population density in WHO regions and respective countries was not the sole reason for the widespread infection, although it did hinder efforts to control infections in countries like China, Japan, India, and the USA.
 
 ### Additional References
-[WHO COVID Data](https://data.who.int/dashboards/covid19/cases)
+[WHO COVID Data](https://data.who.int/dashboards/covid19/cases)     
 [Global Population Density](https://www.statista.com/statistics/912416/global-population-density-by-region/)   
 [WHO Regions](https://en.wikipedia.org/wiki/List_of_WHO_regions)   
 
