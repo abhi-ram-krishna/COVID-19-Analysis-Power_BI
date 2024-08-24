@@ -34,6 +34,9 @@ Images of all the other sheets in the report are given in ![COVID-19.pdf](https:
 <br>
 <br>
 ## Insights
+> [!IMPORTANT]
+> All the insights provided are based on case data from January 2020 to July 2020. Other variants and waves of COVID-19 were observed later, and recovery rates improved with research and vaccination efforts initiated after July 2020.
+
 The coronavirus disease 2019 (COVID-19) pandemic is a global outbreak of coronavirus – an infectious disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
 Cases of novel coronavirus (nCoV) were first detected in China in December 2019, with the virus spreading rapidly to other countries across the world.
 
@@ -49,7 +52,10 @@ Cases of novel coronavirus (nCoV) were first detected in China in December 2019,
 
 -This shift was due to the fact that countries in the Western Pacific Region and the South-East Asian Region implemented a combination of strategies, including full lockdowns, aggressive test-and-trace programs, mask mandates, and digital contact tracing. In contrast, many other countries were slower to respond, disregarded scientific advice, or faced challenges in managing the outbreak effectively.( [reference](https://www.nature.com/immersive/d41586-020-03437-4/index.html) )
 
--After reviewing additional references, it was found that population size or population density in WHO regions and respective countries was not the sole reason for the widespread infection, although it did hinder efforts to control infections in countries like China, Japan, India, and the USA.
+-After reviewing additional references, it was found that population size or population density in WHO regions and respective countries was not the sole reason for the widespread infection, although it did hinder efforts to control infections in countries like China, Japan, India, and the USA.   
+[Global Population Density](https://www.statista.com/statistics/912416/global-population-density-by-region/)   
+[WHO Regions](https://en.wikipedia.org/wiki/List_of_WHO_regions)   
+
 <br>
 
 ## Technologies Used
