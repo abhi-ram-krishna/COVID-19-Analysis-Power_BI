@@ -36,7 +36,7 @@ Images of all the other sheets in the report are given in ![COVID-19.pdf](https:
 ## Insights
 The coronavirus disease 2019 (COVID-19) pandemic is a global outbreak of coronavirus – an infectious disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
 Cases of novel coronavirus (nCoV) were first detected in China in December 2019, with the virus spreading rapidly to other countries across the world.
-<br>
+
 -The global trend of COVID-19 cases showed a steady rise after February 2020, when cases were reported outside China and the WHO declared the outbreak a Public Health Emergency of International Concern.
 
 -A steep increase occurred after March 2020, when the cumulative number of cases began doubling within days, leading the WHO to declare COVID-19 a pandemic.
