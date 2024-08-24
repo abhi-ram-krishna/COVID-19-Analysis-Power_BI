@@ -1,6 +1,6 @@
 # COVID 19 Analysis Using Power BI
 
-![COVID-19_page-0001](https://github.com/user-attachments/assets/2fae3da5-cf17-40c3-914f-4158bdeac294)
+https://github.com/user-attachments/assets/2fae3da5-cf17-40c3-914f-4158bdeac294
 
 ## Overview
 The **COVID-19 Analysis** project showcases interactive Power BI dashboards that provide valuable insights on the COVID-19 pandemic based on case data from **January 2020** to **July 2020** 
