@@ -3,7 +3,6 @@
 ![banner](https://github.com/user-attachments/assets/ae54fc21-5073-40f6-acf5-d765cf13eb3d)
 
 <br>
-<br>
 
 ## Overview
 The **COVID-19 Analysis** project showcases interactive Power BI dashboards that provide valuable insights on the COVID-19 pandemic based on case data from **January 2020** to **July 2020** .
