@@ -1,6 +1,7 @@
 # COVID 19 Analysis Using Power BI
 
-![COVID-19_page-0001](https://github.com/user-attachments/assets/2fae3da5-cf17-40c3-914f-4158bdeac294)
+![banner](https://github.com/user-attachments/assets/ae54fc21-5073-40f6-acf5-d765cf13eb3d)
+
 <br>
 <br>
 
