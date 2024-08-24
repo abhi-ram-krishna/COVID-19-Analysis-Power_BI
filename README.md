@@ -1,6 +1,6 @@
 # COVID 19 Analysis Using Power BI
 
-[COVID-19_page-0001](https://github.com/user-attachments/assets/2fae3da5-cf17-40c3-914f-4158bdeac294)
+![COVID-19_page-0001](https://github.com/user-attachments/assets/2fae3da5-cf17-40c3-914f-4158bdeac294)
 <br>
 <br>
 ## Overview
@@ -8,7 +8,7 @@ The **COVID-19 Analysis** project showcases interactive Power BI dashboards that
 <br>
 <br>
 ## Data Sources
-The data used in this project is sourced from the Kaggle dataset ![COVID-19 Dataset](https://www.kaggle.com/datasets/imdevskp/corona-virus-report).
+The data used in this project is sourced from the Kaggle dataset [COVID-19 Dataset](https://www.kaggle.com/datasets/imdevskp/corona-virus-report).
 > [!NOTE]
 > files **fully_grouped.csv** and population dataset derived from **worldmeter_data.csv** were only used in this analysis..
 <br>
