@@ -13,7 +13,7 @@ The data used in this project is sourced from the Kaggle dataset [COVID-19 Datas
 > files **fully_grouped.csv** and population dataset derived from **worldmeter_data.csv** were only used in this analysis..
 <br>
 <br>
-## Reports - Power BI
+## Reports - Power BI  
 The ![COVID-19.pbix](https://github.com/abhi-ram-krishna/COVID-19-Analysis-Power_BI/blob/cc626aa0f64fac71c3a1ad909940e642de99ab97/COVID-19.pbix) file includes a report containing five pages: Overview, Map, Top-N, Highlights, and Scatter Plot.
 
 - **The Overview Page**: this page prominently displays essential metrics such as total confirmed cases, total deaths, total recovered, active cases, recovery rate etc. Doughnut charts exhibiting the distribution of confirmed cases, deaths, and recovered cases by WHO regions are included.
