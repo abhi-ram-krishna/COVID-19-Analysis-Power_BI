@@ -30,7 +30,7 @@ The ![COVID-19.pbix](https://github.com/abhi-ram-krishna/COVID-19-Analysis-Power
 
 - **The Scatter Plot Page**: contains scatter plot that shows the relation between population and number of confirmed cases by both country and WHO region.
 
-Images of all the other sheets in the report is given in ![COVID-19.pdf](https://github.com/abhi-ram-krishna/COVID-19-Analysis-Power_BI/blob/cc626aa0f64fac71c3a1ad909940e642de99ab97/COVID-19.pdf).
+Images of all the other sheets in the report are given in ![COVID-19.pdf](https://github.com/abhi-ram-krishna/COVID-19-Analysis-Power_BI/blob/cc626aa0f64fac71c3a1ad909940e642de99ab97/COVID-19.pdf).
 <br>
 <br>
 ## Insights
