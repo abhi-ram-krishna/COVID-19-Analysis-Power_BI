@@ -41,14 +41,15 @@ Cases of novel coronavirus (nCoV) were first detected in China in December 2019,
 
 -A steep increase occurred after March 2020, when the cumulative number of cases began doubling within days, leading the WHO to declare COVID-19 a pandemic.
 
--Initially, the outbreak predominantly affected countries in the Western Pacific Region, such as China, Taiwan, and Vietnam. However, after March 2020, countries in the European region, followed by the Americas, became the epicenters of the infection.
-
--This shift was due to the fact that countries in the Western Pacific Region and the South-East Asian Region implemented a combination of strategies, including full lockdowns, aggressive test-and-trace programs, mask mandates, and digital contact tracing. In contrast, many other countries were slower to respond, disregarded scientific advice, or faced challenges in managing the outbreak effectively.( [reference](https://www.nature.com/immersive/d41586-020-03437-4/index.html) )
-
 -The global trend of COVID-19 exhibited multiple peaks, with waves of infection spreading from May to July 2020, resulting in a significant rise in confirmed cases. Amidst this surge, the number of recovered cases also peaked, while the death rate remained relatively stable due to travel restrictions, hotspot-based quarantine measures, and other preventive actions.
 
 ![Line Graph](https://github.com/user-attachments/assets/49865294-cc05-47fd-bd77-d199b4c8561f)
 
+-Initially, the outbreak predominantly affected countries in the Western Pacific Region, such as China, Taiwan, and Vietnam. However, after March 2020, countries in the European region, followed by the Americas, became the epicenters of the infection.
+
+-This shift was due to the fact that countries in the Western Pacific Region and the South-East Asian Region implemented a combination of strategies, including full lockdowns, aggressive test-and-trace programs, mask mandates, and digital contact tracing. In contrast, many other countries were slower to respond, disregarded scientific advice, or faced challenges in managing the outbreak effectively.( [reference](https://www.nature.com/immersive/d41586-020-03437-4/index.html) )
+
+-After reviewing additional references, it was found that population size or population density in WHO regions and respective countries was not the sole reason for the widespread infection, although it did hinder efforts to control infections in countries like China, Japan, India, and the USA.
 <br>
 
 ## Technologies Used
