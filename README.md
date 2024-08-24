@@ -36,7 +36,7 @@ Images of all the other sheets in the report are given in ![COVID-19.pdf](https:
 ## Insights
 
 <br>
-<br>
+
 ## Technologies Used
 Power BI, MS Excel
    
