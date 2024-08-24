@@ -42,4 +42,4 @@ Power BI, MS Excel
    
 ## Contributors
 ABHIRAM KRISHNA A    
-![LinkedIn](https://www.linkedin.com/in/abhiram-krishna-085163160/)
+[LinkedIn](https://www.linkedin.com/in/abhiram-krishna-085163160/)
