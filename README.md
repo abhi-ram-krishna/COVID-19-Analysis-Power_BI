@@ -1,18 +1,18 @@
 # COVID 19 Analysis Using Power BI
 
 ![COVID-19_page-0001](https://github.com/user-attachments/assets/2fae3da5-cf17-40c3-914f-4158bdeac294)
-
-
+   
+   
 ## Overview
 The **COVID-19 Analysis** project showcases interactive Power BI dashboards that provide valuable insights on the COVID-19 pandemic based on case data from **January 2020** to **July 2020** .
-
-
+   
+   
 ## Data Sources
 The data used in this project is sourced from the Kaggle dataset ![COVID-19 Dataset](https://www.kaggle.com/datasets/imdevskp/corona-virus-report).
 > [!NOTE]
-> files **fully_grouped.csv** and population dataset derived from **worldmeter_data** were only used in this analysis..
-
-
+> files **fully_grouped.csv** and population dataset derived from **worldmeter_data.csv** were only used in this analysis..
+   
+   
 ## Reports - Power BI
 The ![COVID-19.pbix](https://github.com/abhi-ram-krishna/COVID-19-Analysis-Power_BI/blob/cc626aa0f64fac71c3a1ad909940e642de99ab97/COVID-19.pbix) file includes a report containing five pages: Overview, Map, Top-N, Highlights, and Scatter Plot.
 
@@ -29,10 +29,11 @@ The ![COVID-19.pbix](https://github.com/abhi-ram-krishna/COVID-19-Analysis-Power
 - **The Scatter Plot Page**: contains scatter plot that shows the relation between population and number of confirmed cases by both country and WHO region.
 
 Images of all the other sheets in the report is given in ![COVID-19.pdf](https://github.com/abhi-ram-krishna/COVID-19-Analysis-Power_BI/blob/cc626aa0f64fac71c3a1ad909940e642de99ab97/COVID-19.pdf).
-
-
+   
+   
 ## Technologies Used
-Power BI
-
+Power BI, MS Excel
+   
+   
 ## Contributors
 ABHIRAM KRISHNA A
