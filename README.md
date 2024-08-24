@@ -1,6 +1,6 @@
 # COVID 19 Analysis Using Power BI
 
-![COVID-19_page-0001](https://github.com/user-attachments/assets/2fae3da5-cf17-40c3-914f-4158bdeac294)
+[COVID-19_page-0001](https://github.com/user-attachments/assets/2fae3da5-cf17-40c3-914f-4158bdeac294)
 <br>
 <br>
 ## Overview
@@ -31,8 +31,13 @@ The ![COVID-19.pbix](https://github.com/abhi-ram-krishna/COVID-19-Analysis-Power
 Images of all the other sheets in the report is given in ![COVID-19.pdf](https://github.com/abhi-ram-krishna/COVID-19-Analysis-Power_BI/blob/cc626aa0f64fac71c3a1ad909940e642de99ab97/COVID-19.pdf).
 <br>
 <br>
+## Insights
+
+<br>
+<br>
 ## Technologies Used
 Power BI, MS Excel
    
 ## Contributors
 ABHIRAM KRISHNA A
+![LinkedIn](https://www.linkedin.com/in/abhiram-krishna-085163160/)
